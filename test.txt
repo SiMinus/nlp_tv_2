@@ -1,0 +1,17 @@
+friendship, hope, sacrifice, battle, self development, betrayal, love, dialogue
+/Users/cuichenwei/Downloads/Projects_June/code_live/data/Subtitles
+/Users/cuichenwei/Downloads/Projects_June/code_live/stubs/theme_classifier_output.csv
+
+/Users/cuichenwei/Downloads/Projects_June/code_live/data/Subtitles
+/Users/cuichenwei/Downloads/Projects_June/code_live/stubs/ner_output.csv
+
+
+
+text_classification:
+
+
+Clement/jutsu_classfier
+
+/Users/cuichenwei/Downloads/Projects_June/analyze_series_with_NLP/data/jutsus.jsonl
+
+The Rasengan is a powerful, A-rank ninjutsu technique in the Naruto universe. It's a rapidly spinning ball of chakra, created and held in the user's hand, that can be used to inflict significant damage on a target according to Narutopedia.
